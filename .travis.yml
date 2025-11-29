@@ -3,5 +3,8 @@ language: java
 jdk:
   - openjdk17
 
+install:
+  - mvn clean install -DskipTests=true
+
 script:
-  - mvn clean install
+  - mvn test
