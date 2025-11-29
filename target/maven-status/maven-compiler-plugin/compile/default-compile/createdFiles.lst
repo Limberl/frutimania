@@ -1,0 +1,7 @@
+com\frutimania\frutimania\Frutimania.class
+com\frutimania\database\Conexion.class
+com\frutimania\controllers\ReportesController.class
+com\frutimania\Main.class
+com\frutimania\models\Movimiento.class
+com\frutimania\models\Producto.class
+com\frutimania\controllers\ProductoController.class

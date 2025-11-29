@@ -1,0 +1,5 @@
+Reporte de productos
+====================
+
+Producto{id=1, nombre='Manzana', categoria='Fruta', stock=10, precioCompra=5.00, precioVenta=8.00}
+Producto{id=2, nombre='Manzana', categoria='Fruta', stock=10, precioCompra=5.00, precioVenta=8.00}
