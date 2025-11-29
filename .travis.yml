@@ -1,6 +1,13 @@
 language: java
 jdk:
-  - openjdk17
+  - openjdk11
 
+# Habilita Travis CI en tu repositorio
+branches:
+  only:
+    - main
+    - master
+
+# Indica a Travis que construya el proyecto
 script:
-  - ./gradlew build
+  - mvn clean install -DskipTests=false
