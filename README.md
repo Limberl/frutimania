@@ -30,6 +30,7 @@ Se propone desarrollar Frutimania, una aplicación que centraliza la gestión de
 4. Arquitectura de la solución
 
 La arquitectura implementada sigue el siguiente flujo:
+  
   1.-Developer
     Realiza cambios en el código Java y los sube a GitHub.
 
