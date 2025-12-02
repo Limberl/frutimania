@@ -31,8 +31,8 @@ Se propone desarrollar Frutimania, una aplicación que centraliza la gestión de
 
 La arquitectura implementada sigue el siguiente flujo:
   
-  1.-Developer
-    Realiza cambios en el código Java y los sube a GitHub.
+                  1.-Developer
+                      Realiza cambios en el código Java y los sube a GitHub.
 
   2.-GitHub (Control de versiones)
     Administra branches, issues, milestones y cambios del repositorio.
