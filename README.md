@@ -24,4 +24,5 @@ La arquitectura implementada sigue el siguiente flujo:
 Documentacion completa:
 
 Manual de instalacion: https://github.com/Limberl/frutimania/wiki/Instalacion
-//Guia de usuario: https://github.com/Limberl/frutimania/wiki/Requerimientos
+//
+Guia de usuario: https://github.com/Limberl/frutimania/wiki/Requerimientos
