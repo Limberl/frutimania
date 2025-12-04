@@ -22,5 +22,6 @@ La arquitectura implementada sigue el siguiente flujo:
 3.-Aplicación Java Organizada con: /src/main/java /src/test/java
 
 Documentacion completa:
+
 Manual de instalacion: https://github.com/Limberl/frutimania/wiki/Instalacion
 Guia de usuario: https://github.com/Limberl/frutimania/wiki/Requerimientos
